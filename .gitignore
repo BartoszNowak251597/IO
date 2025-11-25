@@ -1,1 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+
+# IDE
 .idea
+.vscode/
+
+# venv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# Flask
+instance/
+.webassets-cache
+
+# direnv
+.direnv
